@@ -1,0 +1,2 @@
+input:
+python Test_Model.py --dataset /home/ai/Desktop/Rayne/research-FL-Rayne/Udacitydataset/Ch2_002/HMB_1 --model cnn1 --resized_image_width 320 --resized_image_height 480 --nb-epoch 10 --batch_size 32
